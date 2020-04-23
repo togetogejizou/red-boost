@@ -245,7 +245,7 @@
 		"sideBarSectionHeader.border": "#000080",
 		"statusBar.background": "#300000",
 		"statusBar.border": "#200000",
-		"statusBar.debuggingBackground": "#300000",
+		"statusBar.debuggingBackground": "#800000",
 		"statusBar.foreground": "#F5F5F5",
 		"statusBar.noFolderBackground": "#300000",
 		"statusBar.noFolderForeground": "#F5F5F5",
