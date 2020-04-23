@@ -3,13 +3,18 @@
     "displayName": "Red Boost Theme",
     "publisher":"togetogejizou",
     "description": "Red Boost color theme",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "engines": {
         "vscode": "^1.44.0"
     },
     "categories": [
         "Themes"
     ],
+    "repository": {
+		"type": "GitHub",
+		"url": "https://github.com/togetogejizou/red-boost"
+	},
+
     "keywords":["red", "se3", "focus", "concentration", "color"],
     "icon": "images/icon.png",
     "contributes": {
