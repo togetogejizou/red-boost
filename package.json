@@ -2,8 +2,8 @@
     "name": "red-boost",
     "displayName": "Red Boost Theme",
     "publisher":"togetogejizou",
-    "description": "Red Boost color theme",
-    "version": "0.0.5",
+    "description": "Red background color theme",
+    "version": "0.0.6",
     "engines": {
         "vscode": "^1.44.0"
     },
