@@ -1,5 +1,7 @@
 # Change Log
 
+- 0.0.7
+  - Fine tuning
 - 0.0.6
   - Correction of description
 - 0.0.5

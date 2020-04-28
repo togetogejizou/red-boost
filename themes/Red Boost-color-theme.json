@@ -40,7 +40,7 @@
 				"declaration.tag"
 			],
 			"settings": {
-				"foreground": "#DD0000"
+				"foreground": "#CE9090"
 			}
 		},
 		{
@@ -103,7 +103,8 @@
 				"meta.block-level"
 			],
 			"settings": {
-				"foreground": "#4169e1"
+				"foreground": "#717C9B",
+				"fontStyle": "bold"
 			}
 		},
 		{
@@ -224,7 +225,7 @@
 		"editor.selectionHighlightBackground": "#BB0000",
 		"editorBracketMatch.background": "#FFFF0080",
 		"editorCursor.foreground": "#FFFFFF",
-		"editorGroup.border": "#F5F5F5",
+		"editorGroup.border": "#FF908E",
 		"editorGroupHeader.tabsBackground": "#2929316e",
 		"editorLineNumber.foreground": "#20B2AA",
 		"editorWhitespace.foreground": "#AA0000",
