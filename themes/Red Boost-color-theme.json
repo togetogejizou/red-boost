@@ -253,6 +253,8 @@
 		"statusBar.noFolderBackground": "#300000",
 		"statusBar.noFolderForeground": "#F5F5F5",
 		"tab.activeBackground": "#700000",
+		"tab.activeBorderTop": "#b22222",
+		"tab.activeModifiedBorder": "#f22222",
 		"tab.border": "#8db3ff46",
 		"tab.inactiveBackground": "#2929316e",
 		"textLink.activeForeground": "#FFFF00",
