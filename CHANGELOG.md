@@ -1,5 +1,7 @@
 # Change Log
 
+- 0.0.10
+  - Icon Update
 - 0.0.9
   - Tab color adjustment
 - 0.0.8
